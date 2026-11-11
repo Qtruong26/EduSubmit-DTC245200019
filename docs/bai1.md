@@ -1,6 +1,6 @@
 # Bài 1 – Tổng quan hệ thống và MEP
 
-**Họ tên:** Diệp Quốc Trường  
+**Họ tên:** Diệp Quang Trường  
 **MSSV:** DTC245200019  
 **Lớp:** CNTT
 
